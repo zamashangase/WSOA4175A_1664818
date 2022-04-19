@@ -2,6 +2,7 @@ ts<!DOCTYPE ;html>
 <html>
 <head>
 <script>
+    
     function myFunction() {
         document.getElementById("demo").innerHTML = "Paragraph changed."
     }
@@ -61,3 +62,4 @@ const handleMyInternetArt = (myinternetArtGallery) => {
     
 };
 console.log('This webpage was created by Zama to discuss internet art through blog posts and the website design and creative  process')
+
