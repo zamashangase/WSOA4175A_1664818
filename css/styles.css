@@ -48,6 +48,7 @@ header{
     
 
     background-color: #02000A;
+    
 }
 header h2{
     text-transform: uppercase;
@@ -63,6 +64,8 @@ header nav{
 header li a:hover{
     color: #8E6385;
 }
+
+
 
 .nav__links{
     list-style: none;
@@ -106,3 +109,4 @@ background: #8E6385;
 #content1 div:nth-child(even){
     background: #AB3A63;
 }
+
